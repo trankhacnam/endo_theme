@@ -1,0 +1,17 @@
+{
+  "name": "demo-bower",
+  "version": "1.0.1",
+  "authors": [
+    "Trần Khắc Nam <lrvtrankhacnam@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/trankhacnam/endo_theme",
+  "ignore": [
+    "README.md"
+  ]
+}
